@@ -61,7 +61,7 @@ The right one is the output of generator with pretraining using Autoencoder.
 1.Autoencoder  
 ![img_result](https://github.com/suzuichi/DCGAN_with_Autoencoder/blob/master/img_AE.jpg)  
   
-2.generator
+2.generator  
 ![img_result](https://github.com/suzuichi/DCGAN_with_Autoencoder/blob/master/img_DCGAN_AE.jpg)  
   
 3.Discriminator of DCGAN  
