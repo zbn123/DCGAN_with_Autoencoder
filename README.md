@@ -2,6 +2,9 @@ DCGAN with Autoencoder
   
 I implement Deep Convolutional Generative Adversarial Networks(DCGAN) with Autoencoder.  
   
+This does NOT work for scene images.  
+This only work for face images.  
+  
 Sorry, My English ability is low.  
 So the explanation below may be difficult to read.  
 Please contact me if you have any questions.  
