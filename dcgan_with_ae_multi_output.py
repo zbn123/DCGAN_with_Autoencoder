@@ -42,10 +42,10 @@ image_save_interval = 1000
 DIM1 = 3
 
 #AE(encoder,decoder), generator
-DIM2 = 120
-DIM3 = 90
-DIM4 = 60
-DIM5 = 30
+DIM2 = 30
+DIM3 = 60
+DIM4 = 90
+DIM5 = 120
 DIM6 = 100
 
 #discriminiator(DCGAN)
